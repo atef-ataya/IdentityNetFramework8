@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34321.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityNetFramework8", "IdentityNetFramework8\IdentityNetFramework8.csproj", "{FA824CE9-4BC4-42BC-8F13-14C1FCB6FB0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA824CE9-4BC4-42BC-8F13-14C1FCB6FB0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA824CE9-4BC4-42BC-8F13-14C1FCB6FB0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA824CE9-4BC4-42BC-8F13-14C1FCB6FB0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA824CE9-4BC4-42BC-8F13-14C1FCB6FB0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8362874-C806-416A-8D11-C3BCCB43392B}
+	EndGlobalSection
+EndGlobal

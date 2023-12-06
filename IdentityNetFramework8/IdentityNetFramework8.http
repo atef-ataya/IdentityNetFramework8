@@ -1,0 +1,6 @@
+@IdentityNetFramework8_HostAddress = http://localhost:5096
+
+GET {{IdentityNetFramework8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
